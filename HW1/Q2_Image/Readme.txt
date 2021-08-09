@@ -1,0 +1,1 @@
+分別用三種不同 filter function 實現
